@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+canvas {
+    width: 100%;
+    height: 100%;
+    /* background: black; */
+    background: #6a6e6d;
+}
+
+h1 {
+    /* background: black; */
+    background: #6a6e6d;
+    color: #98e3da;
+    padding: 1em;
+    margin: 0;
+    text-align: center;
+    font-family: 'Mansalva', cursive;
+}
